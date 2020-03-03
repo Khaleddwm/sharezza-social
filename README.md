@@ -1,2 +1,2 @@
 # sharezza-social
-WCS Quest 02
+WCS Quest GitHub 02
